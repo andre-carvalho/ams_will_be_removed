@@ -1,3 +1,5 @@
+# This repository is archived. Use the official at [this link](https://github.com/terrabrasilis/ams).
+
 [![Build Status](https://travis-ci.com/AmazonSR/ams.svg?branch=master)](https://travis-ci.com/AmazonSR/ams)
 [![codecov](https://codecov.io/gh/AmazonSR/ams/branch/master/graph/badge.svg?token=RM6BDOL70Y)](https://codecov.io/gh/AmazonSR/ams)
 
